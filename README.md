@@ -29,6 +29,7 @@ Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
 | fase4_expandir.py | função expandir e conjunto de explorados |
 | fase5_busca.py | busca A* com while |
 | a_estrela.py | programa completo |
+| desafio1.py a desafio6.py | desafios de cada fase |
 
 ## Documentação (engenharia de software)
 
