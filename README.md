@@ -19,3 +19,8 @@ igual à figura 3.24 do livro.
 - mapa.py: mapa da Romênia e heurística
 - fase1_explorar.py a fase5_busca.py: etapas do desenvolvimento
 - a_estrela.py: versão final
+
+## Documentação
+
+- [Documentação do projeto](docs/documentacao.md)
+- [Diagramas UML](docs/diagramas.md)
